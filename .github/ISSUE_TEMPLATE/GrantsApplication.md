@@ -9,6 +9,8 @@ about: Submit a new grant idea
 
 **Describe the solution you are proposing.** 
 
+**Describe how our project will contribute to the growth of the Livepeer ecosystem .** 
+
 **Describe the scope of the project including a rough timeline and milestones** 
 
 **Please estimate hours spent on project based on the above** 
